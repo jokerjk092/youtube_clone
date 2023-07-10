@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/static/css/main.02749904.css",
+    "main.js": "/static/js/main.a05bdf3a.js",
+    "static/media/image1.png": "/static/media/image1.d1e5e8093a3f8f51428e.png",
+    "static/media/Logo_of_YouTube_(2015-2017).svg.webp": "/static/media/Logo_of_YouTube_(2015-2017).svg.c2a13708525834b43b65.webp",
+    "index.html": "/index.html",
+    "main.02749904.css.map": "/static/css/main.02749904.css.map",
+    "main.a05bdf3a.js.map": "/static/js/main.a05bdf3a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.02749904.css",
+    "static/js/main.a05bdf3a.js"
+  ]
+}
